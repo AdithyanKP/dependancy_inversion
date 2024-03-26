@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-//sample dependancy injection
 type Worker struct {
   ID   int
   Name string
